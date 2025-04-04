@@ -1,16 +1,16 @@
-[jira](./jira.md)
+[jira](./jira.md) ✅
 
-[aws](./aws.md)
+[aws](./aws.md) ✅
 
-[actions](./Githubactions.md)
+[actions](./Githubactions.md) ✅
 
-[shell](./shell.md)
+[shell](./shell.md) ✅
 
 [docker](./docker_vim.md)
 
-[django](./django.md)
+[django](./django.md) ✅
 
-[fastapi](./fastapi.md)
+[fastapi](./fastapi.md) ✅
 
 [flask](./flask.md)
 
